@@ -1,0 +1,44 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+#img2{
+    height: 200;
+    width: 200;
+}
+.descrip{
+    font-family: 'Benne', serif;
+}
+body{
+    background-image: linear-gradient(red,yellow)
+}
+.heade{
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Benne', serif;
+font-family: 'Lobster', cursive;
+}
+.movie_head{
+    margin-bottom:15px;
+    padding:10px;
+    width:100%;
+    font-size: 20px;
+    display: inline-block;
+    text-align: center;
+}
+.modal-dialog{
+   width:40%;
+       
+}
